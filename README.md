@@ -39,3 +39,6 @@ Password: <la que definiste>
 
 ## Dashboard
 Este dashboard, creado en Power BI Desktop, permite visualizar y comparar la cantidad de sismos y su magnitud entre distintas décadas, años y meses, ofreciendo un análisis temporal detallado de la actividad sísmica.
+
+Si deseas abrir el archivo .pbix y que los datos se actualicen, debes cambiar la conexión a tu propio servidor PostgreSQL, incluyendo host, puerto, usuario y contraseña.
+Puedes cambiar la conexión en Power BI Desktop desde Transformar datos → Origen → Configuración de fuente de datos.
